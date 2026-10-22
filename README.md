@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Akram Mujtaba, Data Engineer" />
+<img src="assets/banner.png" width="100%" alt="Akram Mujtaba Mohammed, Data Engineer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&pause=1400&color=38BDF8&center=true&vCenter=true&width=720&lines=Real-time+pipelines+with+Kafka%2C+Flink+and+Spark;Lakehouses+on+Iceberg%2C+Trino+and+AWS;Data+people+can+trust%2C+delivered+in+minutes" alt="Real-time pipelines, lakehouses, trusted data" />
 
