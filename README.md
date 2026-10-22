@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:0ea5e9&height=190&section=header&text=Akram%20Mujtaba&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Data%20Engineer%20%C2%B7%20Streaming%20%26%20Lakehouse%20Pipelines&descSize=18&descAlignY=58" width="100%" alt="Akram Mujtaba, Data Engineer" />
+<img src="assets/banner.png" width="100%" alt="Akram Mujtaba, Data Engineer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&pause=1400&color=38BDF8&center=true&vCenter=true&width=720&lines=Real-time+pipelines+with+Kafka%2C+Flink+and+Spark;Lakehouses+on+Iceberg%2C+Trino+and+AWS;Data+people+can+trust%2C+delivered+in+minutes" alt="Real-time pipelines, lakehouses, trusted data" />
 
@@ -91,8 +91,3 @@ Write down the why            → design decisions live next to the code
 - 📚 Going deeper on Flink state management and Iceberg table maintenance at scale
 - 💬 Happy to talk about streaming, CDC, and lakehouse design
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0b1220&height=110&section=footer" width="100%" alt="" />
-
-</div>
