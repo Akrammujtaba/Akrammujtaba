@@ -18,7 +18,7 @@ I'm a data engineer with nearly 5 years of experience building batch and streami
 
 Before that I built the first AWS data lake and CDC pipelines at **RUNO**, a SaaS company in Hyderabad, taking reporting from next-day to about every 30 minutes. I hold an **MS in Computer Science from NJIT**.
 
-📍 NJ/NYC area · open to hybrid, remote, or relocation · on STEM OPT through July 2028 (no sponsorship needed until then)
+📍 NJ/NYC area · open to hybrid, remote, or relocation
 
 ---
 
